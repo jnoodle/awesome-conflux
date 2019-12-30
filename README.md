@@ -33,7 +33,7 @@
 - [Twitter](https://twitter.com/ConfluxChain)
 - [Telegram](http://t.me/Conflux_English)
 - [Weibo](https://weibo.com/confluxchain)
-- [Wechat](https://www.conflux-chain.org/static/code-27dee52ae3f05061d47c4a4cfb22c7d1.png)
+- [Wechat](assets/167a0eadeba9c5b4.jpg)
 - [Meetup](https://www.conflux-chain.org/meetup/)
 - [Conflux Protocol Source codes](https://github.com/Conflux-Chain/conflux-rust)
 

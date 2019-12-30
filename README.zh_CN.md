@@ -32,7 +32,7 @@
 - [Twitter](https://twitter.com/ConfluxChain)
 - [Telegram](http://t.me/Conflux_English)
 - [微博](https://weibo.com/confluxchain)
-- [微信公众号](https://www.conflux-chain.org/static/code-27dee52ae3f05061d47c4a4cfb22c7d1.png)
+- [微信公众号](assets/167a0eadeba9c5b4.jpg)
 - [开发者 Meetup](https://www.conflux-chain.org/meetup/)
 - [Conflux 协议源码](https://github.com/Conflux-Chain/conflux-rust)
 
@@ -82,8 +82,6 @@
 
 - [Conflux Chain 创始人龙凡采访](https://www.youtube.com/watch?v=26xdxxbb8o4)
 
-
-![img](assets/167a0eadeba9c5b4.jpg)
 
 <!-- ## 开发工具 -->
 <!-- ## DApps -->
