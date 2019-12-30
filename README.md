@@ -42,7 +42,7 @@
 
 - [Confluxscan: Blockchain Explorer](http://www.confluxscan.io/)
 - [Conflux Web Wallet](https://wallet.confluxscan.io/)
-- 🏆[Conflux Bounty](https://bounty.conflux-chain.org/)
+- [Conflux Bounty](https://bounty.conflux-chain.org/) 🏆
 
 
 ## Developer Documents

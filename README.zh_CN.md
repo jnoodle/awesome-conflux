@@ -41,7 +41,7 @@
 
 - [Confluxscan 区块链浏览器](http://www.confluxscan.io/)
 - [Conflux 在线钱包](https://wallet.confluxscan.io/)
-- 🏆[Conflux 赏金任务](https://bounty.conflux-chain.org/)
+- [Conflux 赏金任务](https://bounty.conflux-chain.org/) 🏆
 
 
 ## 开发文档
