@@ -1,10 +1,20 @@
-# awesome-conflux
-
-⚡️ Awesome Conflux Resources 
-
-[中文版](README.zh_CN.md)
-
 ![img](assets/logo-b@2-dee22c77d1ece864c86ad375ad2e3cac.png)
+
+# Awesome Conflux
+
+⚡️ Awesome Conflux Resources [中文版](README.zh_CN.md)
+
+*All contributions are welcome!*
+
+
+## Contents
+
+- [About Conflux](#about-conflux)
+- [Tools](#tools)
+- [Developer Documents](#developer-documents)
+- [Blogs](#blogs)
+- [Media Reports](#media-reports)
+- [Videos](#videos)
 
 
 ## About Conflux
@@ -32,7 +42,7 @@
 
 - [Confluxscan: Blockchain Explorer](http://www.confluxscan.io/)
 - [Conflux Web Wallet](https://wallet.confluxscan.io/)
-- 💡[Conflux Bounty](https://bounty.conflux-chain.org/)
+- 🏆[Conflux Bounty](https://bounty.conflux-chain.org/)
 
 
 ## Developer Documents
@@ -71,8 +81,8 @@
 ## Videos
 
 - [Conflux Chain- Interview with Co-Founder - Fan Long](https://www.youtube.com/watch?v=26xdxxbb8o4)
-- [⎮Conflux ⎮ Brilliant teacher turns blockchain builder, meet Fan Long ⎮ Crypto](https://www.youtube.com/watch?v=q-CRCOFWTdE)
+- [Conflux ⎮ Brilliant teacher turns blockchain builder, meet Fan Long ⎮ Crypto](https://www.youtube.com/watch?v=q-CRCOFWTdE)
 - [Conflux | BlockchainBrad | Public Blockchain | Tree Graph | Cryptocurrency](https://www.youtube.com/watch?v=zX-bVTEKOiQ&t=876s)
 
 <!-- ## Developer Tools -->
-<!-- ## DAPPS -->
+<!-- ## DApps -->
