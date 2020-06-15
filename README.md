@@ -67,11 +67,11 @@
 
 - [Conflux Research Institute, backed by Shanghai government and assorted committees, will be launched soon!](https://www.8btc.com/article/505097)
 - [Dialogue with Conflux: Much Space to Improve Layer 1; the Trade-off of Public Chain has not Arrived yet.](https://mp.weixin.qq.com/s/0VDuf4GWi6VGRsmePE9gSg)
-- [How to Launch Permissionless Blockchain Projects | Crowd Funding is No Longer Healthy for Today’s Blockchain Industry](https://www.odaily.com/post/5139864)
+- [How to Launch Permissionless Blockchain Projects - Crowd Funding is No Longer Healthy for Today’s Blockchain Industry](https://www.odaily.com/post/5139864)
 - [Providing Underlying Technological Support - Strategic Cooperation Announced between Conflux and Qingdao Bay Blockchain](http://xiaofei.people.com.cn/n1/2019/0808/c425315-31284141.html)
-- [Spot Light | Conflux founder, Dr. Fan Long: we are the most reliable blockchain team](https://mp.weixin.qq.com/s/hWsBBhXPhYhwigvLRv4irQ)
+- [Spot Light - Conflux founder, Dr. Fan Long: we are the most reliable blockchain team](https://mp.weixin.qq.com/s/hWsBBhXPhYhwigvLRv4irQ)
 - [Strong Reaction - Dr. Fan Long: China's emphasis on science and technology has increased the confidence of the big data industry](https://baijiahao.baidu.com/s?id=1634760201645424037)
-- [BTC Exclusive Interview | Dr. Fan Long from Conflux: Cross-chain is a Subset of the Oracle, the Core is to Grant Real World Data Access to the Chain](https://www.8btc.com/article/407426)
+- [BTC Exclusive Interview - Dr. Fan Long from Conflux: Cross-chain is a Subset of the Oracle, the Core is to Grant Real World Data Access to the Chain](https://www.8btc.com/article/407426)
 - [DeepTech Exclusive interview A startup team from Tsinghua University Yao-class raised $35M funding against deficit market: a commitment of conquering the fundamental problem of blockchain using hard power](http://www.mittrchina.com/news/%203376)
 - [A Faster Bitcoin? Conflux Raises $35 Million from Chinese Web Giants for New Blockchain Protocol](http://fortune.com/2018/12/04/conflux-blockchain/?from=singlemessage&isappinstalled=0)
 - [Notable Investors Pursuing DApp Protocol Conflux Despite Market Concern](https://www.forbes.com/sites/darrynpollock/2018/12/04/notable-investors-pursuing-dapp-protocol-conflux-despite-market-concern/?from=singlemessage&isappinstalled=0#6bf08de11a2c)
@@ -81,8 +81,8 @@
 ## Videos
 
 - [Conflux Chain- Interview with Co-Founder - Fan Long](https://www.youtube.com/watch?v=26xdxxbb8o4)
-- [Conflux ⎮ Brilliant teacher turns blockchain builder, meet Fan Long ⎮ Crypto](https://www.youtube.com/watch?v=q-CRCOFWTdE)
-- [Conflux | BlockchainBrad | Public Blockchain | Tree Graph | Cryptocurrency](https://www.youtube.com/watch?v=zX-bVTEKOiQ&t=876s)
+- [Conflux - Brilliant teacher turns blockchain builder, meet Fan Long - Crypto](https://www.youtube.com/watch?v=q-CRCOFWTdE)
+- [Conflux - BlockchainBrad - Public Blockchain - Tree Graph - Cryptocurrency](https://www.youtube.com/watch?v=zX-bVTEKOiQ&t=876s)
 
 <!-- ## Developer Tools -->
 <!-- ## DApps -->
