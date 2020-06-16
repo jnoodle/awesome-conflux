@@ -27,7 +27,7 @@ Conflux 致力于打造下一代高性能的 DApp 公链平台。在开发系统
 - [什么是 Conflux? ](https://www.conflux-chain.org/zh/technology/)
 - [团队成员](https://www.conflux-chain.org/zh/team/)
 - [学术论文](https://arxiv.org/abs/1805.03870)
-- [技术介绍](https://www.conflux-chain.org/static/Conflux%E6%8A%80%E6%9C%AF%E4%BB%8B%E7%BB%8D-68bdf7fa8ace98af1130ae9ae2067d24.pdf)
+- [技术介绍](https://confluxnetwork.org/static/Conflux_Technical_Presentation_20200309.pdf)
 - [Conflux 协议规范](https://www.conflux-chain.org/static/Conflux%20Protocol%20Specification[Testnet%20v0.6]-bdeb6c51e4b72fb5bc797b4b51828a63.pdf)
 
 ## 社交媒体
@@ -56,6 +56,7 @@ Conflux 致力于打造下一代高性能的 DApp 公链平台。在开发系统
 ## 源代码
 
 - [Github](https://github.com/conflux-chain)
+- [Conflux JS SDK](https://github.com/Conflux-Chain/js-conflux-sdk)
 - [Conflux 协议](https://github.com/Conflux-Chain/conflux-rust)
 - [Conflux 在线钱包](https://github.com/Conflux-Chain/conflux-wallet)
 - [Conflux 浏览器](https://github.com/Conflux-Chain/conflux-scan)

@@ -28,7 +28,7 @@ Conflux is the next generation blockchain protocol with scalability, security, a
 - [What is Conflux? ](https://www.conflux-chain.org/technology/)
 - [Team](https://www.conflux-chain.org/team/)
 - [Academic Paper](https://arxiv.org/abs/1805.03870)
-- [Technical Presentation](https://www.conflux-chain.org/static/Conflux_Technical_Presentation-bc848324e6b717f4f91744f1c2bf5b2d.pdf)
+- [Technical Presentation](https://confluxnetwork.org/static/Conflux_Technical_Presentation_20200309.pdf)
 - [Conflux Protocol Specification](https://www.conflux-chain.org/static/Conflux%20Protocol%20Specification[Testnet%20v0.6]-bdeb6c51e4b72fb5bc797b4b51828a63.pdf)
 
 ## Channels
