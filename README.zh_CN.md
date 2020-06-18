@@ -5,7 +5,7 @@ Conflux 致力于打造下一代高性能的 DApp 公链平台。在开发系统
 
 # Awesome Conflux [English](README.md)
 
-⚡️ 收集所有 Conflux 相关资料 [github](https://github.com/jnoodle/awesome-conflux)
+⚡️ 收集所有 Conflux 相关资料 [github repo](https://github.com/jnoodle/awesome-conflux)
 
 *欢迎提 [issue](https://github.com/jnoodle/awesome-conflux/issues) 或 [PR](https://github.com/jnoodle/awesome-conflux/pulls)*
 
