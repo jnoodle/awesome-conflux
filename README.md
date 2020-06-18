@@ -5,7 +5,7 @@ Conflux is the next generation blockchain protocol with scalability, security, a
 
 # Awesome Conflux [中文版](README.zh_CN.md)
 
-⚡️ Awesome Conflux Resources [github](https://github.com/jnoodle/awesome-conflux)
+⚡️ Awesome Conflux Resources [github repo](https://github.com/jnoodle/awesome-conflux)
 
 *All contributions are welcome!*
 
