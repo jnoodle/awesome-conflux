@@ -9,8 +9,8 @@ Conflux is the next generation blockchain protocol with scalability, security, a
 
 *All contributions are welcome!* 
 
-![pr](https://img.shields.io/github/issues-pr/jnoodle/awesome-conflux)
-![issue](https://img.shields.io/github/issues/jnoodle/awesome-conflux)
+[![pr](https://img.shields.io/github/issues-pr/jnoodle/awesome-conflux)](https://github.com/jnoodle/awesome-conflux/pulls)
+[![issue](https://img.shields.io/github/issues/jnoodle/awesome-conflux)](https://github.com/jnoodle/awesome-conflux/issues)
 
 
 ## Contents
