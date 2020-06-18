@@ -9,8 +9,8 @@ Conflux 致力于打造下一代高性能的 DApp 公链平台。在开发系统
 
 *欢迎提 [issue](https://github.com/jnoodle/awesome-conflux/issues) 或 [PR](https://github.com/jnoodle/awesome-conflux/pulls)*
 
-![pr](https://img.shields.io/github/issues-pr/jnoodle/awesome-conflux)
-![issue](https://img.shields.io/github/issues/jnoodle/awesome-conflux)
+[![pr](https://img.shields.io/github/issues-pr/jnoodle/awesome-conflux)](https://github.com/jnoodle/awesome-conflux/pulls)
+[![issue](https://img.shields.io/github/issues/jnoodle/awesome-conflux)](https://github.com/jnoodle/awesome-conflux/issues)
 
 ## Contents
 
