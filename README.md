@@ -39,11 +39,12 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 ## Channels
 
 - [Github](https://github.com/conflux-chain)
-- [Medium](https://medium.com/@Confluxchain)
+- [Medium](https://medium.com/@ConfluxNetwork)
 - [Reddit](https://www.reddit.com/user/ConfluxChain)
-- [Twitter](https://twitter.com/ConfluxChain)
+- [Twitter](https://twitter.com/Conflux_Network)
 - [Telegram](http://t.me/Conflux_English)
 - [YouTube](https://www.youtube.com/channel/UCFSTmjoSU8jn6DE_4V2TIzA?disable_polymer=true)
+- [Discord](https://discord.com/invite/aCZkf2C)
 - [Weibo](https://weibo.com/confluxchain)
 - [Wechat](assets/167a0eadeba9c5b4.jpg)
 - [Zhihu](https://www.zhihu.com/org/confluxzhong-wen-she-qu)
