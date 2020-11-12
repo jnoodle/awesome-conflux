@@ -1,4 +1,6 @@
-![img](assets/logo-b@2-dee22c77d1ece864c86ad375ad2e3cac.png)
+![img](assets/logo.png)
+
+<br>
 
 Conflux Network is an open protocol for a new world of DApps, finance, and Web 3.0. As a fast and secure public blockchain, Conflux Network combines Proof of Work and a Tree-Graph structure to power a new generation of decentralized commerce.
 
@@ -19,6 +21,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 
 - [About Conflux](#about-conflux)
 - [Channels](#channels)
+- [Exchange](#exchange)
 - [Tools](#tools)
 - [Community](#community)
 - [DeFi](#defi)
@@ -30,11 +33,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 ## About Conflux
 
 - [Conflux Website](https://confluxnetwork.org/)
-- [Conflux Technology ](https://confluxnetwork.org/technology/)
-- [Conflux Team](https://confluxnetwork.org/team/)
-- [Conflux Blog](https://confluxnetwork.org/blog/)
-- [Conflux Media Report](https://confluxnetwork.org/media/)
-- [Conflux FAQs](https://confluxnetwork.org/faqs/)
+- [Conflux Economic White Paper](https://confluxnetwork.org/files/Conflux_Economic_Paper.pdf)
 
 ## Channels
 
@@ -52,16 +51,25 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [KakaoTalk](https://open.kakao.com/o/gmyEjl2b)
 - [Meetup](https://www.conflux-chain.org/meetup/)
 
+## Exchange
+
+- [MoonDEX](https://moondex.io/)
+- [MXC](https://www.mxc.com/trade/easy#CFX_USDT)
+- [CITEX](https://trade.citex.me/trade/CFX_USDT)
+- [Hoo](https://hoo.com/spot/cfx-usdt)
+- [HOTBIT](https://www.hotbit.io/exchange?symbol=CFX_USDT)
+- [Biki](https://www.biki.com/zh_CN/trade/CFX_USDT)
+- [CoinEx](https://www.coinex.com/exchange/cfx-usdt)
+- [芝麻开门](https://www.gatecn.io/trade/CFX_USDT)
+- [Price Tool](http://price.conflux.cool/)
 
 ## Tools
 
-- [Conflux Scan: Blockchain Explorer](http://www.confluxscan.io/)
+- [Conflux Scan: Blockchain Explorer](https://confluxscan.io/)
 	- [Conflux Scan Source Code](https://github.com/Conflux-Chain/conflux-scan) 
 - [Conflux Portal (Conflux version of MetaMask)](http://portal.conflux-chain.org/)
   - [Conflux Portal Documentation](https://developer.conflux-chain.org/docs/conflux-portal/docs/en/portal/introduction)
   - [Conflux Portal Source Code](https://github.com/Conflux-Chain/conflux-portal)
-- [Conflux Mining](https://mining.confluxnetwork.org/)
-	- [Mining Tool](https://github.com/Conflux-Chain/conflux-rust/releases)
 
 
 ## Community
@@ -76,7 +84,6 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [Conflux DeFi Ecosystem](https://defi.confluxnetwork.org/)
 - [Conflux ShuttleFlow Documentation](https://conflux-dev.github.io/conflux-dex-docs/shuttleflow/)
 - [Conflux MatchFlow Documentation](https://conflux-dev.github.io/conflux-dex-docs/matchflow/)
-- [DEX](https://moondex.io/)
 
 
 ## Developer Tools
@@ -104,6 +111,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [Conflux Protocol Specification](https://confluxnetwork.org/static/Conflux_Protocol_Specification_20200714.pdf)
 - [Technical Presentation](https://confluxnetwork.org/static/Conflux_Technical_Presentation_20200309.pdf)
 - [Conflux DApp Tutorial](https://github.com/ObsidianLabs/conflux-dapp-tutorial)
+- [Conflux Blockchain Courses](https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en)
 - [Bitquery Conflux Explorer](https://explorer.bitquery.io/conflux_oceanus)
 
 
