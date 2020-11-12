@@ -53,7 +53,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [KakaoTalk](https://open.kakao.com/o/gmyEjl2b)
 - [Meetup](https://www.conflux-chain.org/meetup/)
 
-## Exchange 💸
+## Exchange
 
 - [MoonDEX](https://moondex.io/)
 - [MXC](https://www.mxc.com/trade/easy#CFX_USDT)
@@ -88,7 +88,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [Conflux MatchFlow Documentation](https://conflux-dev.github.io/conflux-dex-docs/matchflow/)
 
 
-## Developer Tools 👩‍💻
+## Developer Tools
 
 - [Conflux Protocol](https://github.com/Conflux-Chain/conflux-rust)
 - [Conflux JS SDK](https://github.com/Conflux-Chain/js-conflux-sdk)
