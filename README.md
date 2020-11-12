@@ -33,6 +33,8 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 ## About Conflux
 
 - [Conflux Website](https://confluxnetwork.org/)
+- [About](https://confluxnetwork.org/about)
+- [Media Feed](https://confluxnetwork.org/community/media)
 - [Conflux Economic White Paper](https://confluxnetwork.org/files/Conflux_Economic_Paper.pdf)
 
 ## Channels
@@ -51,7 +53,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [KakaoTalk](https://open.kakao.com/o/gmyEjl2b)
 - [Meetup](https://www.conflux-chain.org/meetup/)
 
-## Exchange
+## Exchange 💸
 
 - [MoonDEX](https://moondex.io/)
 - [MXC](https://www.mxc.com/trade/easy#CFX_USDT)
@@ -86,7 +88,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [Conflux MatchFlow Documentation](https://conflux-dev.github.io/conflux-dex-docs/matchflow/)
 
 
-## Developer Tools
+## Developer Tools 👩‍💻
 
 - [Conflux Protocol](https://github.com/Conflux-Chain/conflux-rust)
 - [Conflux JS SDK](https://github.com/Conflux-Chain/js-conflux-sdk)
@@ -111,7 +113,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 - [Conflux Protocol Specification](https://confluxnetwork.org/static/Conflux_Protocol_Specification_20200714.pdf)
 - [Technical Presentation](https://confluxnetwork.org/static/Conflux_Technical_Presentation_20200309.pdf)
 - [Conflux DApp Tutorial](https://github.com/ObsidianLabs/conflux-dapp-tutorial)
-- [Conflux Blockchain Courses](https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en)
+- [Conflux Blockchain Courses 👩‍🏫](https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en)
 - [Bitquery Conflux Explorer](https://explorer.bitquery.io/conflux_oceanus)
 
 
