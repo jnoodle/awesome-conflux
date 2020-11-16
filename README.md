@@ -123,8 +123,11 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
 
 - [Bitquery Conflux Explorer](https://explorer.bitquery.io/conflux_oceanus)
 
-- CCW & Conflux Chain Webinar
+- [Conflux 进阶课](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU3ODc3ODkxNA==&action=getalbum&album_id=1341287051693752321&scene=173&from_msgid=2247499022&from_itemidx=1&count=10#wechat_redirect&scene=126&subscene=0&sessionid=0&enterid=1605512873)
 
+- CCW & Conflux Chain Webinar
+  - [CCW丨密码学通识（十一）以太坊和 Conflux 中所使用的签名算法 ECDSA](https://mp.weixin.qq.com/s/kIC2rMKRbJc70C7AkCHS0g)
+  - [CCW丨密码学通识（十）非对称密码学中的 RSA 算法](https://mp.weixin.qq.com/s/PDntFsa5LDWzZ1DjXBNZXA)
   - [CCW丨密码学通识（九）更强的密码学模型——随机预言机](https://mp.weixin.qq.com/s/Lwn2iJ0r0OL6mw4embxqnQ)
   - [CCW丨密码学通识（八）数学意义上的哈希函数](https://mp.weixin.qq.com/s/u-XqgCEMgdH7cYgwnWIcLQ)
   - [CCW丨密码学通识（七）区块链中的哈希函数](https://mp.weixin.qq.com/s/XoLNawzN7t4e-QzkDKw7yg)
@@ -176,5 +179,7 @@ Born from the top minds of Tsinghua University and University of Toronto, Conflu
   - [Conflux Chain Webinar | 2分钟理解闪电网络的设计思想（两点支付篇）](https://mp.weixin.qq.com/s/M-tpSSS4Saf6oDeXJnMUzg)
   - [Conflux Chain Webinar | 如何减少交易的重复打包？](https://mp.weixin.qq.com/s/aenVwBkVu9_kCMS7PFRvGQ)
   - [Conflux Chain Webinar | 什么是最重链规则？](https://mp.weixin.qq.com/s/SZmuZTpEuG2GQH0TOaMkng)
+  
+  
 
 
